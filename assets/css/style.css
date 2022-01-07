@@ -1,4 +1,5 @@
 
+
 /*
 Theme Name:Office
 Theme URI:http://ThemeWagon.com/
@@ -732,6 +733,12 @@ footer h3 {
 .carousel-caption .carousel-title {
   color: #ffffff;
 }
+
+.carousel-caption .carousel-companyname {
+    font-size: 92px;
+    padding-bottom: 20rem;
+}
+
 @media (min-width: 768px) and (max-width: 1199px) {
   .carousel-caption {
     font-size: 12px;
